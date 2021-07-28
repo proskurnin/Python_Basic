@@ -6,4 +6,4 @@ print('Задача 2. Цвета')
 r = 'Red'
 g = 'Green'
 b =  'Blue'
-print(b, r, g, b, g + b, b + b + g, b)
+print(r, b, g, r+g+b, b, g+b)
